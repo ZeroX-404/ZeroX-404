@@ -10,10 +10,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Bug+Bounty+Hunter;Cybersecurity+Researcher;Backend+Developer;Building+Secure+and+Scalable+Systems" alt="Typing SVG" />
 
 <p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=2F80ED" />
+  <a href="https://github.com/ZeroX-404">
+    <img src="https://img.shields.io/github/followers/ZeroX-404?label=Followers&style=for-the-badge&color=2F80ED" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+  <a href="https://github.com/ZeroX-404?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-Open%20Source-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:YOUR_EMAIL">
@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/ZeroX-404">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@YOUR_YOUTUBE">
@@ -154,7 +154,7 @@ My current focus is on strengthening my skills in **penetration testing, web app
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZeroX-404&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroX-404&layout=compact&hide_border=true&theme=tokyonight" />
 
 <br/><br/>
 
